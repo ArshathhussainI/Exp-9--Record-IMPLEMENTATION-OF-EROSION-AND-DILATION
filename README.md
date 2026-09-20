@@ -41,10 +41,6 @@ Display the dilated image.
 # Step 8:
 Compare the original, eroded, and dilated images.
 
-# Developed By
-# Name: GOKULAN R
-
-# Register No: 212224230076
 
 # PROGRAM:
 ```
